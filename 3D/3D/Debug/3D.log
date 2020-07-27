@@ -1,0 +1,11 @@
+﻿  3DView.cpp
+D:\Đồ họa máy tính\3D\3D\3DView.cpp(23,1): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+D:\Đồ họa máy tính\3D\3D\3DView.cpp(23,1): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+D:\Đồ họa máy tính\3D\3D\3DView.cpp(23,1): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+D:\Đồ họa máy tính\3D\3D\3DView.cpp(60,2): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+D:\Đồ họa máy tính\3D\3D\3DView.cpp(60,2): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+D:\Đồ họa máy tính\3D\3D\3DView.cpp(60,2): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+D:\Đồ họa máy tính\3D\3D\3DView.cpp(150,2): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+D:\Đồ họa máy tính\3D\3D\3DView.cpp(150,2): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+D:\Đồ họa máy tính\3D\3D\3DView.cpp(150,2): warning C4566: character represented by universal-character-name '\u1ECD' cannot be represented in the current code page (1252)
+  3D.vcxproj -> D:\Đồ họa máy tính\3D\Debug\3D.exe
